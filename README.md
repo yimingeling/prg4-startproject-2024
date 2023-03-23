@@ -25,11 +25,13 @@ Open de browser op de link die verschijnt. Je kan nu je game gaan ontwikkelen. O
 
 ## Publiceren naar Github Pages
 
+In VS Code kan je `commit` en `push` gebruiken om de code waar je aan gewerkt hebt naar je eigen github te sturen. Met github pages kan je de speelbare game vervolgens publiceren.
+
 In de ***github pages settings*** kies je voor ***publish main > docs***.
 
 ![pages](./src/images/page.png)
 
-Je publiceert je project via `npm build`. Er wordt dan een docs folder aangemaakt. Je moet in `package.json` het `build` commando aanpassen zodat de naam van jouw project wordt gebruikt:
+Je publiceert je project via `npm build`. ⚠️ Je moet in `package.json` het `build` commando aanpassen zodat de naam van jouw project wordt gebruikt:
 
 ```json
 "scripts": {
