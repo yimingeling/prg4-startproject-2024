@@ -14,7 +14,7 @@
 
 ```bash
 npm install
-npm dev
+npm run dev
 ```
 
 Open de browser op de link die verschijnt. Je kan nu je game gaan ontwikkelen. Om te stoppen typ je `ctrl + c` in de terminal.
