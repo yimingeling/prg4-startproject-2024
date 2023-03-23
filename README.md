@@ -59,7 +59,7 @@ Om te testen of het publiceren werkt kan je een `preview` doen. In `package.json
 <br>
 <br>
 
-### Tip: clickable npm commando's
+### Tip: clickable npm commando's in VS Code
 
 Het is super handig om de `npm` commando's aan te kunnen klikken:
 
