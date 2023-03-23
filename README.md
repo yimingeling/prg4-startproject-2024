@@ -8,9 +8,11 @@
 
 ## Setup
 
-- Fork deze repository, zodat dit startproject in je eigen github terecht komt
-- Clone de repository van jouw eigen github naar je lokale computer (via `git clone` of door de zip te downloaden)
-- Open de map in VSCode en open een terminal. Daar typ je:
+- Fork deze repository, zodat dit startproject in je eigen github terecht komt.
+- Hernoem de repository! Geef het een betere naam dan "excalibur-startproject". Dit doe je in github > settings.
+- Clone de repository van jouw eigen github naar je lokale computer. Klik op "use this template". Gebruik `git clone` of download de zip.
+- Open de map op je lokale computer met VS Code.
+- Open een terminal in VS Code. Daar typ je:
 
 ```bash
 npm install
