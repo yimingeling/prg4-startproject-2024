@@ -1,4 +1,4 @@
-# Excalibur Startproject 2023
+# Excalibur + Vite Startproject 2023
 
 ![fishes](./src/images/preview.png)
 
