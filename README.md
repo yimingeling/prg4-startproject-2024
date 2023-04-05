@@ -2,9 +2,9 @@
 
 ![fishes](./src/images/preview.png)
 
-- FORK deze repository, zodat dit startproject in je eigen github terecht komt.
+- Klik op USE THIS TEMPLATE. Kies als owner jouw eigen github account. Check dat dit startproject in je eigen github terecht komt.
 - Hernoem de repository in github settings.
-- Clone de repository van jouw eigen github naar je lokale computer. Klik op "use this template" en kopieer de git url.
+- CLONE de repository van jouw eigen github naar je lokale computer via de git url. Die vind je onder "code".
 - Open VS Code. Klik het "Source Control" icoontje. Kies voor "clone repository" en plak de git url.
 - VS Code haalt nu het startproject op en opent het automatisch.
 - Typ `npm install` en `npm run dev` in de terminal in VS Code.
