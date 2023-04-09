@@ -7,6 +7,7 @@
 - CLONE de repository van jouw eigen github naar je lokale computer via de git url. Die vind je onder "code".
 - Open VS Code. Klik het "Source Control" icoontje. Kies voor "clone repository" en plak de git url.
 - VS Code haalt nu het startproject op en opent het automatisch.
+- Kies een map die je ook via localhost kan openen, bijvoorbeeld `xampp/htdocs/mijnproject`.
 - Typ `npm install` en `npm run dev` in de terminal in VS Code.
 
 [🔥 Bekijk het instructie filmpje!](https://youtu.be/UIVpe4L5_P4)
