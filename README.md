@@ -1,7 +1,5 @@
 # Excalibur Startproject 2024
 
-![fishes](./src/images/preview.png)
-
 - Vanaf de HR repository: klik op USE THIS TEMPLATE. Kies jouw eigen github account. 
 - Geef het project een naam en check dat het nu online op jouw github staat.
 - Kopieer de `git url` van jouw eigen repository (dit vind je onder de "code" button).
